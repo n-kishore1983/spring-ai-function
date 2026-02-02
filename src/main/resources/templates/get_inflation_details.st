@@ -1,0 +1,1 @@
+Get the {inflationType} inflation details for {country}? {format}
